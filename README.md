@@ -1,11 +1,34 @@
-<div align="center">
+# CINEX
+### A movie discovery project.
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<p align="left">
+  <img alt="Project" src="https://img.shields.io/badge/Project-Movie%20Discovery-111827?style=for-the-badge">
+  <img alt="Status" src="https://img.shields.io/badge/Status-Starter%20Stage-4F46E5?style=for-the-badge">
+</p>
 
-  <h1>Built with AI Studio</h2>
+CINEX is the starting point for a movie-focused application. The intended direction is to make it easier to explore film information and organize titles of interest.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Intended direction
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+- Browse and discover movies.
+- View useful movie details and metadata.
+- Build a personal watchlist.
 
-</div>
+## Current status
+
+This repository currently contains a starter README and does not yet document an implemented application. The features above describe the intended direction, not verified or completed functionality.
+
+## Development notes
+
+As implementation is added, this README should be updated with the actual technology stack, setup instructions, screenshots, data-provider attribution, and feature status.
+
+Any future streaming or playback links should point only to authorized sources. Movie metadata and images should follow the chosen provider's terms.
+
+## Repository
+
+- [Source code](https://github.com/COMPUTER-GURU-03/CINEX)
+- [Issues](https://github.com/COMPUTER-GURU-03/CINEX/issues)
+
+---
+
+<p align="center"><sub>A clean starting point for a better way to explore movies.</sub></p>
